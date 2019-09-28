@@ -1,0 +1,61 @@
+h1{
+    text-align: center;
+    text-indent: 50px;
+    color: white;
+    margin-top: 60px;
+  }
+
+h2{
+    text-align: center;
+    text-indent: 50px;
+    color: white;
+    margin-top: 60px;
+
+  }
+  
+body {
+
+    background-color: rgb(27, 26, 26);
+ }
+table#tabelajogo {
+    size: 70px;
+    border: auto;
+    border-spacing: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: auto;
+}
+
+table#td{
+    block-size: 40px;
+    border: 1px solid white;
+    padding: 10px;
+    vertical-align: middle; 
+}
+
+.btn{
+     font-family: cursive; 
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: 500;
+    border: none;
+    padding: 10px;
+    margin-left: 47%;
+    margin-top: 20px;
+    background-color: rgb(146, 226, 241);
+
+  
+}
+
+table#tabelajogo button.bt{
+    font-family: cursive; 
+    font-size: 40px;
+    text-transform: uppercase;
+    font-weight: 500;
+    border: none;
+    height: 100px;
+    width: 100px;
+    
+
+} 
